@@ -1,33 +1,7 @@
 ## Project Details
 
 - ### Project name: Echo
-- ### Team members
-  - James Li (sli64, total 20hrs productive + 5hrs frustration)
-  - Xingyu Liu (xliu205, total 14hrs productive + 7hrs frustration)
-- ### Contributions
-  - Structure and Design (james, 1hrs)
-  - Basic framework (james, 2hrs)
-    - mockedJson
-    - readCommand
-    - evaluateCommand
-    - printResults
-  - Functionalities (james, 5hrs)
-    - checking input arguments for different use cases
-    - mapping file path and csv array
-    - geting html tr format results
-    - initializing/resetting global states and variables
-    - toggling mode
-    - loading csv (Xingyu, 3hrs)
-    - viewing table
-    - searching csv array (Xingyu, 3hrs)
-  - Debugging (james, 3hrs)
-  - Frustration with DOM LOL (james, 5hrs) (Xingyu, 4hrs)
-  - Frustration with search argument handling (Xingyu, 3hrs)
-  - Refactoring, denesting, decoupling (james, 3hrs)
-  - Documentation (james, 2hrs)
-  - Unit testing (Xingyu, 5hrs)
-  - Dom testing (james, 4hrs)
-- ### [Link to repo](https://github.com/cs0320-s2023/sprint-2-sli64-xliu205.git)
+
 
 ## Design choices
 
